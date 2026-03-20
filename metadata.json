@@ -1,0 +1,7 @@
+{
+  "name": "Calabria Travel & Weather Planner",
+  "description": "Un'applicazione per pianificare viaggi in auto nella regione Calabria, calcolando distanze e previsioni meteo all'arrivo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
